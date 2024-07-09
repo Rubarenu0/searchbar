@@ -1,0 +1,27 @@
+*{
+   background-color: blueviolet;
+}
+.search{
+    margin-left: 650px;
+    margin-top: 300px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: bisque;
+    height: 100px;
+    width: 300px;
+}
+.btn-search{
+    padding-right: 40%;
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: white;
+    width: 170px;
+}
+.btn-search,button{
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 5px;
+}
+.isearch,i{
+    background-color: peru;
+}
